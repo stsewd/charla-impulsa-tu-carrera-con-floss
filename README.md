@@ -2,7 +2,7 @@
 
 Charla para la comunidad de JavaScript Ecuador.
 
-Mira la presentación en <https://stsewd.dev/charla-impulsa-tu-carrera-con-open-source/>.
+Mira la presentación en <https://stsewd.dev/charla-impulsa-tu-carrera-con-floss/>.
 Slides creados con [reveal.js](https://github.com/hakimel/reveal.js/).
 
 ## Uso
